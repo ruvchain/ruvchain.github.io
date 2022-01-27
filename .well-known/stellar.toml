@@ -18,3 +18,11 @@ ORG_OFFICIAL_EMAIL="admin@ruvcha.in"
 ORG_TWITTER="ruvchain"
 ORG_GITHUB="ruvchain"
 ORG_KEYBASE="ruvcoindev"
+
+
+[[PRINCIPALS]]
+name="Vitaly Prigorko"
+email="admin@ruvcha.in"
+keybase="ruvcoindev"
+twitter="ruvchain"
+github="ruvchain"
