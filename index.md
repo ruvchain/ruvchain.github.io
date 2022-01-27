@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to RuvChain
 
 You can use the [editor on GitHub](https://github.com/ruvchain/ruvcha-in/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
