@@ -7,12 +7,12 @@ name="RuvChain"
 fixed_number=1000000000
 desc="RuvChain is a digital token to the Stellar Blockchain.RuvChain is an open source blockchain platform, RUV is proof that, blockchain technology is not only about simple transfer of value but also has the potential to revolutionize many aspects of our lives with the various decentralized applications that can be built with it."
 conditions="There will only ever be 1000,000,000 RUV tokens in existence."
-image="https://ruvcha.in/img/logo.png"
+image="https://www.ruvcha.in/img/logo.png"
 
 [DOCUMENTATION]
 ORG_NAME="RuvChain"
-ORG_URL="https://ruvcha.in"
-ORG_LOGO="https://ruvcha.in/img/logo.png"
+ORG_URL="https://www.ruvcha.in"
+ORG_LOGO="https://www.ruvcha.in/img/logo.png"
 ORG_DESCRIPTION="RuvChain is a digital token to the Stellar Blockchain.RuvChain is an open source blockchain platform, RUV is proof that, blockchain technology is not only about simple transfer of value but also has the potential to revolutionize many aspects of our lives with the various decentralized applications that can be built with it."
 ORG_OFFICIAL_EMAIL="admin@ruvcha.in"
 ORG_TWITTER="ruvchain"
