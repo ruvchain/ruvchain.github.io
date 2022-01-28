@@ -1,9 +1,2 @@
-<IfModule mod_rewrite.c>
-  <FilesMatch "^stellar\.toml$">
-    AddType text/plain .toml
-  </FilesMatch>
-</IfModule>
-<IfModule mod_headers.c>    
-    Header set Access-Control-Allow-Origin *
-</IfModule>
 Header set Access-Control-Allow-Origin "*"
+AddType text/plain .toml
